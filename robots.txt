@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-n1cvnv.biggamingwin.online/sitemap.xml
